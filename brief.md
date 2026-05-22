@@ -24,3 +24,12 @@ A detailed report was prepared containing:
 ## GUI Implementation
 A graphical user interface (**GUI**) was also developed using **Python** to provide an interactive and user-friendly way to interact with the database system.
 
+
+## Shots from my projects 
+
+## GUI
+
+
+
+
+
