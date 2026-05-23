@@ -38,6 +38,11 @@ A graphical user interface (**GUI**) was also developed using **Python** to prov
 
 ![update](videos/update.gif)
 
+## 
+3- delete 
+
+![delete](videos/delete.gif)
+
 
 
 
