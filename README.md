@@ -42,3 +42,12 @@ A graphical user interface (**GUI**) was also developed using **Python** to prov
 3- delete 
 
 ![delete](videos/delete.gif)
+
+## 📸 لقطات من النظام (Project Screenshots)
+
+<p align="center">
+  <img src="images/before.png" width="45%" title="قبل التعديل">
+  <img src="images/ddl.png" width="45%" title="أوامر البناء DDL">
+</p>
+
+### [📂 اضغط هنا لعرض معرض الصور بالكامل (View Full Gallery)](./images/)
