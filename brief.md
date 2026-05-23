@@ -27,9 +27,7 @@ A graphical user interface (**GUI**) was also developed using **Python** to prov
 
 ## Shots from my projects 
 
-## GUI
 
-## register and add cusstomer
 
 ##ش
 
