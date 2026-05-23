@@ -43,11 +43,11 @@ A graphical user interface (**GUI**) was also developed using **Python** to prov
 
 ![delete](videos/delete.gif)
 
-## 📸 لقطات من النظام (Project Screenshots)
+## 📸 (Project Screenshots)
 
 <p align="center">
   <img src="images/before.png" width="45%" title="قبل التعديل">
   <img src="images/ddl.png" width="45%" title="أوامر البناء DDL">
 </p>
 
-### [📂 اضغط هنا لعرض معرض الصور بالكامل (View Full Gallery)](./images/)
+### [📂 اضغط هنا لعرض معرض الصور بالكامل (View Full Galler)](./images/)
