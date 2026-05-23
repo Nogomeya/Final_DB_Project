@@ -28,8 +28,15 @@ A graphical user interface (**GUI**) was also developed using **Python** to prov
 ## Shots from my projects 
 
 ## 🎬 DML IN GUI
+1- insert 
 
 ![insert](videos/add.gif)
+
+
+## 
+2- updae 
+
+![update](videos/update.gif)
 
 
 
