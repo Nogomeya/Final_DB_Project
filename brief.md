@@ -29,6 +29,10 @@ A graphical user interface (**GUI**) was also developed using **Python** to prov
 
 ## GUI
 
+## register and add cusstomer
+
+##ش
+
 
 
 
