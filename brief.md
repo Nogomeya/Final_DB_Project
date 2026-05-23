@@ -27,9 +27,12 @@ A graphical user interface (**GUI**) was also developed using **Python** to prov
 
 ## Shots from my projects 
 
+## 🎬 DML IN GUI
+
+![insert](videos/add.gif)
 
 
-##ش
+
 
 
 
